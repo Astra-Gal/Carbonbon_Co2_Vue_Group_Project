@@ -39,7 +39,7 @@
         "id": 2,
         "type": "range",
         "questionHeading": "How much of your food is locally-sourced?",
-        "questionSubHeading": "Fun fact! Did you know that switching to a plant-based diet for just one day a week saves more carbon emissions that switching to 100% locally-sourced food?",
+        "questionSubHeading": "(Fun fact! Did you know that switching to a plant-based diet for just one day a week saves more carbon emissions than eating 100% locally-sourced food?)",
         "answers": [
             {
                 "text": "All of it! I grow my own veg",
